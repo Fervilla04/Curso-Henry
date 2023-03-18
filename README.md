@@ -1,2 +1,1 @@
-# Curso-Henry
-pruebas de curso y creacion de git en la nube
+prueba creacion de un git en la nube
